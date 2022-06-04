@@ -29,4 +29,4 @@ python3 bot.py
 
 ### Credits
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Arun](https://t.me/Jasim_vahab)
+- [Jasim](https://t.me/Jasim_vahab)
